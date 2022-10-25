@@ -5,22 +5,29 @@ Data Analytics for DHL Logistics Facilities
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/IBM_logo_in.jpg" alt="Logo" width="320" height="128" >
 </a>
  
+ 
 # IBM-Project-51236-1660976324
 # Data Analytics for DHL Logistics Facilities
 <img src="https://cdn.dribbble.com/users/2929464/screenshots/5732611/media/9e4c99f2dccc3103c274715ac928490f.gif" align="right" width="240" height="175"/>
 </div>
 
+
 👨🏻‍💻 <b>Technology:</b> DataAnalytics <br>
-📱    <b>Team Id: </b>PNT2022TMID28822 <br>
+📱    <b>Team ID: </b>PNT2022TMID28822 <br>
 📫 How to reach Us <a href = "mailto: nithi532002@gmail.com">Connect with Email</a><br>
-![](https://komarev.com/ghpvc/?username=IBM-Project-51236-1660976324&label=PROFILE+VIEWS) 
+![](https://komarev.com/ghpvc/?username=IBM-Project-51236-1660976324&label=PROFILE+VIEWS)  
+
+
 # **👩‍👦TEAM MEMBERS:**    
 ```html                      
 NITHISH V        			
 NARENDRA PRASATH V   		
 SATHISH S B 			
 SRIHARIKOTA ARUN KUMAR	       
-``` 
+```
+
+<img src="https://cdn.dribbble.com/users/2929464/screenshots/5735552/media/9ccc61962e449ad63990082839515646.gif" align="right" width="240" height="175"/>
+
 
 # **📜PROJECT DESCRIPTION:**
 ```html
@@ -36,6 +43,8 @@ Adrian Dalsey and Larry Hillblom personally oversaw the daily operations
 until its eventual bankruptcy closed the doors in 1983. 
 At its peak, DHL Air Cargo employed just over 100 workers, management, and pilots.
 ```
+
+
 For detailed Project Overview: [[CLICK HERE]](https://drive.google.com/file/d/1whRyU3rPD5ZW08XOA-jBYUq_X6WC9MG9/view?usp=drivesdk)
 
 
