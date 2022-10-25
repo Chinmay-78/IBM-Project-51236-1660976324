@@ -51,6 +51,10 @@ For detailed Project Overview: [[CLICK HERE]](https://drive.google.com/file/d/1w
 IBM Cloud, Html, Python, IBM Cognos, IBM Watson DataAnalytics platform, Jupyter Notebook.
 
 
+# 🔑Security:
+[![Security](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://github.com/IBM-EPBL/IBM-Project-51236-1660976324/blob/main/SECURITY.md)
+
+
 # **😎Team Details:**
 ```html
 Team ID:      PNT2022TMID28822
