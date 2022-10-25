@@ -9,7 +9,6 @@ Data Analytics for DHL Logistics Facilities
 # IBM-Project-51236-1660976324
 # Data Analytics for DHL Logistics Facilities
 <img src="https://cdn.dribbble.com/users/2929464/screenshots/5732611/media/9e4c99f2dccc3103c274715ac928490f.gif" align="right" width="240" height="175"/>
-<img src="https://cdn.dribbble.com/users/2929464/screenshots/5732611/media/9e4c99f2dccc3103c274715ac928490f.gif" align="right" width="240" height="175"/>
 </div>
 
 
@@ -26,7 +25,7 @@ NARENDRA PRASATH V
 SATHISH S B 			
 SRIHARIKOTA ARUN KUMAR	       
 ```
-
+<img src="https://cdn.dribbble.com/users/2929464/screenshots/5735552/dribble_dhl_02.gif">
 
 # **📜PROJECT DESCRIPTION:**
 ```html
