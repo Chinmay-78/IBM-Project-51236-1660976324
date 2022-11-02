@@ -12,9 +12,9 @@ Data Analytics for DHL Logistics Facilities
 </div>
 
 
-👨🏻‍💻 <b>Technology:</b> DataAnalytics <br>
+🛰️     <b>Technology:</b> DataAnalytics <br>
 📱    <b>Team ID: </b>PNT2022TMID28822 <br>
-📫 How to reach Us <a href = "mailto: nithi532002@gmail.com">Connect with Email</a><br>
+📫 How to reach Us <a href = "mailto:nithi532002@gmail.com">Connect with Email</a><br>
 ![](https://komarev.com/ghpvc/?username=IBM-Project-51236-1660976324&label=PROFILE+VIEWS)  
 
 
@@ -25,7 +25,8 @@ NARENDRA PRASATH V
 SATHISH S B 			
 SRIHARIKOTA ARUN KUMAR	       
 ```
-<img src="https://cdn.dribbble.com/users/2929464/screenshots/5735552/dribble_dhl_02.gif">
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/10200069?s=200&v=4" width="840" height="280"></div>
 
 # **📜PROJECT DESCRIPTION:**
 ```html
@@ -47,7 +48,7 @@ For detailed Project Overview: [[CLICK HERE]](https://drive.google.com/file/d/1w
 
 
 # **🎯Skills Required:**
-IBM Cloud, Html, Python, IBM Cognos, IBM Watson DataAnalytics platform, Jupyter Notebook.
+IBM Cloud, HTML, Python, IBM Cognos, IBM Watson DataAnalytics platform, Jupyter Notebook.
 
 
 # 🔑Security:
@@ -63,6 +64,15 @@ Team Member:  Narendra Prasath V
 Team Member:  Sathish S B
 Team Member:  Sriharikota Arun Kumar
 ```
+
+<a href = "mailto:nithi532002@gmail.com?subject = Feedback&body = Message">
+Send Feedback
+</a>
+<br><br>
+
+🚚Contact DHL for more Details:
+<a href="https://www.dhl.com/us-en/home.html?locale=true&gclid=EAIaIQobChMIt-PwjKiP-wIVSjErCh3XLA-REAAYASAAEgIoKvD_BwE">DHL Official Website</a>
+
 
 
 # 👋THANK YOU
