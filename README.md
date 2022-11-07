@@ -1,5 +1,3 @@
-# IBM-Project-51236-1660976324
-Data Analytics for DHL Logistics Facilities
 <div align="center">
 <a href="https://github.com/othneildrew/Best-README-Template">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/IBM_logo_in.jpg" alt="Logo" width="320" height="128" >
@@ -48,7 +46,12 @@ For detailed Project Overview: [[CLICK HERE]](https://drive.google.com/file/d/1w
 
 
 # **🎯Skills Required:**
-IBM Cloud, HTML, Python, IBM Cognos, IBM Watson DataAnalytics platform, Jupyter Notebook.
+- IBM Cloud
+- HTML
+- Python
+- IBM Cognos
+- IBM Watson DataAnalytics platform
+- Jupyter Notebook
 
 
 # 🔑Security:
