@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/othneildrew/Best-README-Template">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/IBM_logo_in.jpg" alt="Logo" width="320" height="128" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/IBM_logo_in.jpg" alt="Logo" width="420" height="240" >
 </a>
  
  
@@ -14,7 +14,7 @@
 📱    <b>Team ID: </b>PNT2022TMID28822 <br>
 📫 How to reach Us <a href = "mailto:nithi532002@gmail.com">Connect with Email</a><br>
 ![](https://komarev.com/ghpvc/?username=IBM-Project-51236-1660976324&label=PROFILE+VIEWS)  
-
+![](label=PROFILE+VIEWS)
 
 # **👩‍👦TEAM MEMBERS:**    
 ```html                      
@@ -78,4 +78,7 @@ Send Feedback
 
 
 
-# 👋THANK YOU
+<div align="center"><h1>
+ 👋THANK YOU
+ </h1>
+</div>
